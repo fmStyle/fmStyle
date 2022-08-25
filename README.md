@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fmStyle, my real name is Valentin Aguilar and I'm a computer engineering student from Argentina.
 - 👀 I’m interested in audio and game developing. I have a bunch of cool ideas that I will be launching in the future!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: fmstylebeats@gmail.com || valentinaguilar808@gmail.com
 
 <!---
